@@ -140,7 +140,7 @@ function updatePlayerStatus($VALUE = null)
 		if ($DATA !== false) {
 			$result = sqlQuery("UPDATE `Character_DATA` SET `Alive`=" . (int)$DATA['status'] . " WHERE `CharacterID`=" . (int)$DATA['id'] . " AND `InstanceID`=" . (int)INSTANCE . " LIMIT 1;", 'update');
 		}
-		return (!$result) ? Notify(_an_error, 'error') : ($DATA['status'] == 1) ? Notify(success_player_alive, 'success') : Notify(success_player_dead, 'success');
+		return (!$result) ? Notify(_an_error, 'error') : (($DATA['status'] == 1) ? Notify(success_player_alive, 'success') : Notify(success_player_dead, 'success'));
 	}
 }
 
