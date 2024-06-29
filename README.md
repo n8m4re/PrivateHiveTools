@@ -1,5 +1,6 @@
 # PrivateHiveTools
- A Webadminstration Tool for the ArmA2:DayZ Mod
+ A Webadminstration Tool for the ArmA2:DayZ Mod.
+ 
  This Software is about ten Years old and it was my first bigger project and experience in Web Coding with PHP/HTML/JS/SQL. 
 
 ## System requirements 
@@ -15,11 +16,11 @@
 Please make absolutely sure that the tables are advertised as following,
 if not, then please rename !
 
-Character_DATA
-Object_DATA
-Player_DATA
-Player_LOGIN
-Traders_DATA   <-( A2 Epoch )
+- Character_DATA
+- Object_DATA
+- Player_DATA
+- Player_LOGIN
+- Traders_DATA   <-( A2 Epoch )
 
 
 
