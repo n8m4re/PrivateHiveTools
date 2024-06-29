@@ -21,6 +21,6 @@ if not, then please rename !
 ## 
 
 If you like to donate: 
-http://donate.n8m4re.de
+https://donate.n8m4re.com
 
 Thanks in advance!

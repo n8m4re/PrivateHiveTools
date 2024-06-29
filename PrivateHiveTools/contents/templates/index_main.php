@@ -11,7 +11,7 @@ var confirmMSG='$[_confirm]';
 	<nav>
 		<ul>
 		$[MENUHEADER]
-		<li style="float:right;"><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7C3V8Y85DCYP2" title="Many Thanks for your Beans!"><img style="width:90px;" src="style/images/donate.png" alt="" /></a></li>
+		<!-- <li style="float:right;"><a target="_blank" href="https://donate.n8m4re.com" title="Many Thanks for your Beans!"><img style="width:90px;" src="style/images/donate.png" alt="" /></a></li> -->
 		</ul>
 		
 	</nav>
