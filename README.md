@@ -3,15 +3,10 @@
  
  This Software is about ten Years old and it was my first bigger project and experience in Web Coding with PHP/HTML/JS/SQL. 
 
-## System requirements 
-
-* Web server with PHP 5.4 support or higher
-* At least 600 MB free space on the hard disk
-* An FTP client , to transfer files on the Web server
-* A current web browser
-
 
 ## Important!
+* Map Tiles must be downloaded separately from here: https://downloads.n8m4re.com/arma2_dayz/maps.zip
+
 
 Please make absolutely sure that the tables are advertised as following,
 if not, then please rename !
@@ -23,6 +18,7 @@ if not, then please rename !
 - Traders_DATA   <-( A2 Epoch )
 
 
+## 
 
 If you like to donate: 
 http://donate.n8m4re.de
