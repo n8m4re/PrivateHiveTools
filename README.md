@@ -5,7 +5,7 @@
 
 
 ## Important!
-* Map Tiles must be downloaded separately from here: https://downloads.n8m4re.com/arma2_dayz/maps.zip
+Map Tiles must be downloaded separately from here: https://downloads.n8m4re.com/arma2_dayz/maps.zip
 
 
 Please make absolutely sure that the tables are advertised as following,
