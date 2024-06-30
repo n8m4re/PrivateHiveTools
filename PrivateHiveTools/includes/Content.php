@@ -1,8 +1,8 @@
 <?php
 
 /****************************
-SurvivorStats by Nightmare
-http://n8m4re.de
+SurvivorStats 
+https://n8m4re.com
  *****************************/
 
 function getPerm($ID)

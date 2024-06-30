@@ -31,8 +31,8 @@ var confirmMSG='$[_confirm]';
 
 <footer>
 	<ul>
-		<li><span> &copy; 2014 - 9999 PrivateHiveTools $[VERSION] by Nightmare </span></li>
-		<li><a target="_blank" href="http://n8m4re.de"><img src="style/images/logo1.png" alt="" /></a></li>
+		<li><span> &copy; 2014 - 9999 PrivateHiveTools $[VERSION]  </span></li>
+		<li><a target="_blank" href="https://n8m4re.com"><img src="style/images/logo1.png" alt="" /></a></li>
 	</ul>
 </footer>
 <div style="display:none;" id="itemCatalogDia" title="Item Catalog" ></div>

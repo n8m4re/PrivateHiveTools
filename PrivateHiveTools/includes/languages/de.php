@@ -1,7 +1,7 @@
 <?php
 /****************************
-PrivateHiveTools by Nightmare
-http://n8m4re.de
+PrivateHiveTools 
+https://n8m4re.com
 *****************************/
 $lang=array(
 '_January'					=>	'Januar',

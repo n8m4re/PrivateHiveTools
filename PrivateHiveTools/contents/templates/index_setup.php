@@ -92,8 +92,8 @@
 	<br /><br />
 
 		<ul>
-		<li><a target="_blank" href="http://n8m4re.de"><img src="style/images/logo1.png" alt="" /></a></li>
-			<li>&copy; 2014 - 9999 PrivateHiveTools $[VERSION] by Nightmare </li>
+		<li><a target="_blank" href="https://n8m4re.com"><img src="style/images/logo1.png" alt="" /></a></li>
+			<li>&copy; 2014 - 9999 PrivateHiveTools $[VERSION]  </li>
 		</ul>
 
 	

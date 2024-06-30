@@ -1,8 +1,8 @@
 <?php
 
 /****************************
-PrivateHiveTools by Nightmare
-http://n8m4re.de
+PrivateHiveTools 
+https://n8m4re.com
  *****************************/
 !(isset($_SERVER['HTTP_X_REQUESTED_WITH']) && mb_strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest') && die();
 include_once('loader.php');

@@ -1,6 +1,6 @@
 /****************************
-PrivateHiveTools by Nightmare
-http://n8m4re.de
+PrivateHiveTools 
+https://n8m4re.com
 *****************************/
 var curretPAGE=1;
 var totalPAGE=1;

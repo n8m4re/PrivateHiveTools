@@ -1,8 +1,8 @@
 <?php
 
 /****************************
-PrivateHiveTools by Nightmare
-http://n8m4re.de
+PrivateHiveTools 
+https://n8m4re.com
  *****************************/
 function dump($data, $info = null)
 {

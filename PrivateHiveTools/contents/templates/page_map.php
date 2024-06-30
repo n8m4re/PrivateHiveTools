@@ -53,7 +53,7 @@ $('#trashCan').dialog({title:'Object $[_waste]',autoOpen:false,closeOnEscape:fal
 $('#spawn').dialog({title:'Spawn',autoOpen:false,closeOnEscape:true,resizable:false,width:'auto',height:'auto',position:['center',50],dialogClass:'',close:function(ev, ui){$('#spawnForm input').val('');}});	
 
 var map=new L.map('map',{minZoom:$[MAPminZoom],maxZoom:$[MAPmaxZoom]}).setView($[MAPsetView]);
-L.tileLayer('maps/$[MAPname]/{z}/{x}/{y}.png',{tms:true,continuousWorld:true,attribution:'Created by Nightmare - <a href="http://n8m4re.de">N8M4RE.DE</a>'}).addTo(map);
+L.tileLayer('maps/$[MAPname]/{z}/{x}/{y}.png',{tms:true,continuousWorld:true,attribution:'<a href="https://n8m4re.com">N8M4RE.COM</a>'}).addTo(map);
 
 var vehicles=new L.MarkerClusterGroup({chunkedLoading:true});
 var objects=new L.MarkerClusterGroup({chunkedLoading:true});

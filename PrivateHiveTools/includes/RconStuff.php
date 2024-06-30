@@ -1,8 +1,8 @@
 <?php
 
 /****************************
-PrivateHiveTools by Nightmare
-http://n8m4re.de
+PrivateHiveTools 
+https://n8m4re.com
  *****************************/
 defined('PRIVATEHIVETOOLS') || die();
 if (ini_get('allow_url_fopen') == 0) {

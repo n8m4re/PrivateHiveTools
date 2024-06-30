@@ -1,8 +1,8 @@
 <?php
 
 /****************************
-PrivateHiveTools by Nightmare
-http://n8m4re.de
+PrivateHiveTools 
+https://n8m4re.com
  *****************************/
 defined('PRIVATEHIVETOOLS') || die(@header('HTTP/1.0 404 Not Found'));
 function epochKey($value = '0')
